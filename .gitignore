@@ -1,4 +1,8 @@
+.vscode
+
 # ignore the binary files
 test2/fork
 test1/main
-loginQueue
+synchronization/loginQueue
+synchronization/producerConsumer
+
