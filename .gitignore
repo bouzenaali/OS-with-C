@@ -5,8 +5,8 @@ test2/fork
 test1/main
 synchronization/loginQueue
 synchronization/producerConsumer
-interprocesses com/kill
-interprocesses com/stop-cont
-interprocesses com/sigaction
+signals/kill
+signals/stop-cont
+signals/sigaction
 
 
