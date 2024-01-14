@@ -25,4 +25,6 @@ int main(){
         wait(NULL);
     }
 
+    return 0;
+
 }
