@@ -20,6 +20,7 @@ int main(){
         }
     } else {
         sleep(1);
+        printf("pid: %d\n", pid); // the fork func returns the pid of the created child (pid = p)
         kill(pid, SIGKILL); // send a signal to kill the child process
         wait(NULL);
     }
