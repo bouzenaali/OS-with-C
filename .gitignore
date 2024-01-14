@@ -7,5 +7,6 @@ synchronization/loginQueue
 synchronization/producerConsumer
 interprocesses com/kill
 interprocesses com/stop-cont
+interprocesses com/sigaction
 
 
