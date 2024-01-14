@@ -6,5 +6,6 @@ test1/main
 synchronization/loginQueue
 synchronization/producerConsumer
 interprocesses com/kill
+interprocesses com/stop-cont
 
 
