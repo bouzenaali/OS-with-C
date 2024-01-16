@@ -11,6 +11,7 @@ int main(int argc, char *argv[]){
 
     if (pipe(fd)==-1){
         printf("an error occured while creating a pipe\n");
+        return 1;
     }
 
     int id = fork();
